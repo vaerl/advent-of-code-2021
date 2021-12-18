@@ -1,9 +1,9 @@
 use std::fs;
 
 fn main() {
-    println!("Day 02-01:");
+    println!("Day 03-01:");
     binary_diagnostic();
-    println!("Day 02-02:");
+    println!("Day 03-02:");
     life_support_rating()
 }
 
